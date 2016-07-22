@@ -4,6 +4,6 @@ This repository is a slideshow presentation showcasing importance of Men's Acces
 
 **Contributors**
 
-*Mitchelle Korir*
+1.*[Mitchelle Korir](https://github.com/Korirmitchelle)*
 
- *Mark Mwaura*
+ 2.*[Mark Mwaura](https://github.com/Markmwaura)*
